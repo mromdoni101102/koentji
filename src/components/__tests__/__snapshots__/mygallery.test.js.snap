@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyGallery Component Tests matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Notable Scientists
+    </h1>
+    <section
+      class="profile"
+    >
+      <h2>
+        Maria Skłodowska-Curie
+      </h2>
+      <img
+        alt="Maria Skłodowska-Curie"
+        class="avatar"
+        height="70"
+        src="https://i.imgur.com/szV5sdGs.jpg"
+        width="70"
+      />
+      <ul>
+        <li>
+          <b>
+            Profesi: 
+          </b>
+          Fisikawan dan kimiawan
+        </li>
+        <li>
+          <b>
+            Penghargaan: 4 
+          </b>
+          (Penghargaan Nobel Fisika, Penghargaan Nobel Kimia, Medali Davy, Medali Matteucci)
+        </li>
+        <li>
+          <b>
+            Telah Menemukan: 
+          </b>
+          polonium (unsur kimia)
+        </li>
+      </ul>
+    </section>
+    <section
+      class="profile"
+    >
+      <h2>
+        Katsuko Saruhashi
+      </h2>
+      <img
+        alt="Katsuko Saruhashi"
+        class="avatar"
+        height="70"
+        src="https://i.imgur.com/YfeOqp2s.jpg"
+        width="70"
+      />
+      <ul>
+        <li>
+          <b>
+            Profesi: 
+          </b>
+          Ahli Geokimia
+        </li>
+        <li>
+          <b>
+            Penghargaan: 2 
+          </b>
+          (Penghargaan Miyake Geokimia, Penghargaan Tanaka)
+        </li>
+        <li>
+          <b>
+            Telah Menemukan: 
+          </b>
+          sebuah metode untuk mengukur karbon dioksida pada air laut
+        </li>
+      </ul>
+    </section>
+  </div>
+</DocumentFragment>
+`;
